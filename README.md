@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/newtype-header.svg?v=pixel-1" width="1200" alt="NEWTYPE // 1992 — animated pixel NT//92 identity. Build what you imagine." />
+  <img src="./assets/newtype-header.svg?v=avatar-1" width="1200" alt="NEWTYPE — animated pixel NT// identity. Build what you imagine." />
 </p>
 
 # Kareem Brathwaite-Henry
