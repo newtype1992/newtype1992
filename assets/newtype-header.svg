@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">NEWTYPE // 1992</title>
+  <desc id="desc">A midnight navy systems-inspired header with electric-blue accents, an original geometric NT//92 mark, and the words Build what you imagine.</desc>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#203148" stroke-width="1" opacity=".45"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop stop-color="#080E19"/>
+      <stop offset="1" stop-color="#101E32"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="12" fill="url(#fade)"/>
+  <path d="M768 1H1188Q1199 1 1199 12V348Q1199 359 1188 359H768Z" fill="url(#grid)"/>
+  <rect x=".5" y=".5" width="1199" height="359" rx="11.5" fill="none" stroke="#26374E"/>
+  <path d="M48 65V48H112M1088 312H1152V295" fill="none" stroke="#4285FF" stroke-width="2"/>
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <text x="64" y="98" fill="#93A9C6" font-size="15" letter-spacing="4">INDEPENDENT EXPLORATION / 1992</text>
+    <text x="60" y="180" fill="#F0F5FF" font-size="66" font-weight="700" letter-spacing="1">NEWTYPE<tspan fill="#4285FF"> //</tspan></text>
+    <text x="64" y="229" fill="#B9C9DE" font-size="25">Build what you imagine.</text>
+    <text x="64" y="300" fill="#93A9C6" font-size="14" letter-spacing="2.4">CURIOSITY CREATES CAPABILITY</text>
+  </g>
+  <path d="M736 72V288" stroke="#2B405C"/>
+  <g transform="translate(804 114)" fill="none" stroke-linejoin="miter">
+    <path d="M0 72V0L52 72V0M70 0H130M100 0V72" stroke="#F0F5FF" stroke-width="10"/>
+    <path d="M148 78L179 -6M173 78L204 -6" stroke="#4285FF" stroke-width="8"/>
+    <path d="M221 32H255V0H221V32M255 32V72H221M277 0H311V32H277V72H311" stroke="#F0F5FF" stroke-width="8"/>
+  </g>
+  <path d="M804 220H1116" stroke="#2B405C"/>
+  <g fill="#93A9C6" font-family="'Segoe UI', Arial, sans-serif" font-size="14" letter-spacing="3">
+    <text x="804" y="254">BUILD / LEARN / ITERATE</text>
+  </g>
+  <rect x="64" y="255" width="42" height="3" fill="#4285FF"/>
+</svg>

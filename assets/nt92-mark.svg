@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="160" viewBox="0 0 400 160" role="img" aria-labelledby="title desc">
+  <title id="title">NT//92</title>
+  <desc id="desc">Original geometric NT//92 wordmark in off-white and electric blue on midnight navy.</desc>
+  <rect width="400" height="160" rx="12" fill="#080E19"/>
+  <rect x=".5" y=".5" width="399" height="159" rx="11.5" fill="none" stroke="#26374E"/>
+  <g transform="translate(44 44)" fill="none" stroke-linejoin="miter">
+    <path d="M0 72V0L52 72V0M70 0H130M100 0V72" stroke="#F0F5FF" stroke-width="10"/>
+    <path d="M148 78L179 -6M173 78L204 -6" stroke="#4285FF" stroke-width="8"/>
+    <path d="M221 32H255V0H221V32M255 32V72H221M277 0H311V32H277V72H311" stroke="#F0F5FF" stroke-width="8"/>
+  </g>
+</svg>
