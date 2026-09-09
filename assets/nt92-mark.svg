@@ -1,11 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="160" viewBox="0 0 400 160" role="img" aria-labelledby="title desc">
-  <title id="title">NT//92</title>
-  <desc id="desc">Original geometric NT//92 wordmark in off-white and electric blue on midnight navy.</desc>
-  <rect width="400" height="160" rx="12" fill="#080E19"/>
-  <rect x=".5" y=".5" width="399" height="159" rx="11.5" fill="none" stroke="#26374E"/>
-  <g transform="translate(44 44)" fill="none" stroke-linejoin="miter">
-    <path d="M0 72V0L52 72V0M70 0H130M100 0V72" stroke="#F0F5FF" stroke-width="10"/>
-    <path d="M148 78L179 -6M173 78L204 -6" stroke="#4285FF" stroke-width="8"/>
-    <path d="M221 32H255V0H221V32M255 32V72H221M277 0H311V32H277V72H311" stroke="#F0F5FF" stroke-width="8"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="160" viewBox="0 0 400 160" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+<title id="title">NT//92 — animated pixel mark</title><desc id="desc">Pixel NT//92 mark in off-white and electric blue, with subtle signal lights. Animation stops for reduced-motion preferences.</desc>
+<style>
+  .signal { animation: signal 8s steps(20, end) infinite; }
+  .scan { animation: scan 8s steps(28, end) infinite; }
+  .beacon { animation: beacon 4s steps(2, end) infinite; }
+  .beacon-late { animation-delay: -2s; }
+  @keyframes signal { 0%, 10% {transform:translateX(0)} 80%,100% {transform:translateX(320px)} }
+  @keyframes scan { 0%,12% {transform:translateY(0);opacity:0} 16% {opacity:.6} 75% {opacity:.6} 82%,100% {transform:translateY(112px);opacity:0} }
+  @keyframes beacon { 0%,100% {opacity:.5} 50% {opacity:1} }
+  @media (prefers-reduced-motion: reduce) { .signal,.scan,.beacon {animation:none!important} .scan {display:none} }
+</style><path fill="#263D58" d="M8 0h384v8h8v144h-8v8H8v-8H0V8h8z"/>
+<path fill="#0B1423" d="M12 4h376v8h8v136h-8v8H12v-8H4V12h8z"/>
+<path fill="#E5ECF0" d="M42 48h9v9h-9zM78 48h9v9h-9zM42 57h9v9h-9zM51 57h9v9h-9zM78 57h9v9h-9zM42 66h9v9h-9zM51 66h9v9h-9zM78 66h9v9h-9zM42 75h9v9h-9zM60 75h9v9h-9zM78 75h9v9h-9zM42 84h9v9h-9zM69 84h9v9h-9zM78 84h9v9h-9zM42 93h9v9h-9zM69 93h9v9h-9zM78 93h9v9h-9zM42 102h9v9h-9zM78 102h9v9h-9zM96 48h9v9h-9zM105 48h9v9h-9zM114 48h9v9h-9zM123 48h9v9h-9zM132 48h9v9h-9zM114 57h9v9h-9zM114 66h9v9h-9zM114 75h9v9h-9zM114 84h9v9h-9zM114 93h9v9h-9zM114 102h9v9h-9z" /><path fill="#4E9BFF" d="M186 48h9v9h-9zM186 57h9v9h-9zM177 66h9v9h-9zM168 75h9v9h-9zM159 84h9v9h-9zM150 93h9v9h-9zM150 102h9v9h-9zM240 48h9v9h-9zM240 57h9v9h-9zM231 66h9v9h-9zM222 75h9v9h-9zM213 84h9v9h-9zM204 93h9v9h-9zM204 102h9v9h-9z" /><path fill="#E5ECF0" d="M267 48h9v9h-9zM276 48h9v9h-9zM285 48h9v9h-9zM258 57h9v9h-9zM294 57h9v9h-9zM258 66h9v9h-9zM294 66h9v9h-9zM267 75h9v9h-9zM276 75h9v9h-9zM285 75h9v9h-9zM294 75h9v9h-9zM294 84h9v9h-9zM285 93h9v9h-9zM258 102h9v9h-9zM267 102h9v9h-9zM276 102h9v9h-9zM321 48h9v9h-9zM330 48h9v9h-9zM339 48h9v9h-9zM312 57h9v9h-9zM348 57h9v9h-9zM348 66h9v9h-9zM339 75h9v9h-9zM330 84h9v9h-9zM321 93h9v9h-9zM312 102h9v9h-9zM321 102h9v9h-9zM330 102h9v9h-9zM339 102h9v9h-9zM348 102h9v9h-9z" />
+<path fill="#29435F" d="M40 128h320v4H40z"/>
+<path class="beacon" fill="#D9A65B" d="M40 24h8v8h-8z"/>
+<path class="beacon beacon-late" fill="#4E9BFF" d="M56 24h8v8h-8z"/>
 </svg>
