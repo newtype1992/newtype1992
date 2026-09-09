@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/newtype-header.svg?v=avatar-1" width="1200" alt="NEWTYPE — animated pixel NT// identity. Build what you imagine." />
+  <img src="./assets/newtype-header.svg?v=avatar-2" width="1200" alt="NEWTYPE — animated pixel NT identity. Build what you imagine." />
 </p>
 
 # Kareem Brathwaite-Henry
@@ -10,7 +10,7 @@ My background is in business development, SaaS, and technology. Newtype is where
 
 I build things to understand what’s possible.
 
-## 01 // Selected systems
+## 01 · Selected systems
 
 ### [GT Paddock](https://github.com/newtype1992/gt-paddock)
 **Performance systems**
@@ -27,13 +27,13 @@ A personal habit tracker built with Expo and React Native. Daily check-ins, week
 
 A browser extension for saving, organizing, and reusing AI prompts in the tools people already use. Built around a searchable prompt library and faster insertion into AI conversations.
 
-## 02 // Operating areas
+## 02 · Operating areas
 
 **Sales · SaaS · AI · Product · Software · Automation**
 
 Understanding the problem. Shaping the product. Building the system. Learning from how it works.
 
-## 03 // The Newtype idea
+## 03 · The Newtype idea
 
 **Curiosity → experimentation → creation.**
 

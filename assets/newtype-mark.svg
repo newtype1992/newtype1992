@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="160" viewBox="0 0 400 160" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
-<title id="title">NT// — animated pixel mark</title><desc id="desc">Pixel NT// mark in avatar-sampled off-white and sunset amber on slate navy, with violet signal lights. Animation stops for reduced-motion preferences.</desc>
+<title id="title">NT — animated pixel mark</title><desc id="desc">Pixel NT mark in avatar-sampled off-white and sunset amber on slate navy, with violet signal lights. Animation stops for reduced-motion preferences.</desc>
 <style>
   .signal { animation: signal 8s steps(20, end) infinite; }
   .scan { animation: scan 8s steps(28, end) infinite; }
@@ -11,7 +11,7 @@
   @media (prefers-reduced-motion: reduce) { .signal,.scan,.beacon {animation:none!important} .scan {display:none} }
 </style><path fill="#536077" d="M8 0h384v8h8v144h-8v8H8v-8H0V8h8z"/>
 <path fill="#1D2330" d="M12 4h376v8h8v136h-8v8H12v-8H4V12h8z"/>
-<path fill="#FFFBFF" d="M96 48h9v9h-9zM132 48h9v9h-9zM96 57h9v9h-9zM105 57h9v9h-9zM132 57h9v9h-9zM96 66h9v9h-9zM105 66h9v9h-9zM132 66h9v9h-9zM96 75h9v9h-9zM114 75h9v9h-9zM132 75h9v9h-9zM96 84h9v9h-9zM123 84h9v9h-9zM132 84h9v9h-9zM96 93h9v9h-9zM123 93h9v9h-9zM132 93h9v9h-9zM96 102h9v9h-9zM132 102h9v9h-9zM150 48h9v9h-9zM159 48h9v9h-9zM168 48h9v9h-9zM177 48h9v9h-9zM186 48h9v9h-9zM168 57h9v9h-9zM168 66h9v9h-9zM168 75h9v9h-9zM168 84h9v9h-9zM168 93h9v9h-9zM168 102h9v9h-9z" /><path fill="#E09A4A" d="M240 48h9v9h-9zM240 57h9v9h-9zM231 66h9v9h-9zM222 75h9v9h-9zM213 84h9v9h-9zM204 93h9v9h-9zM204 102h9v9h-9zM294 48h9v9h-9zM294 57h9v9h-9zM285 66h9v9h-9zM276 75h9v9h-9zM267 84h9v9h-9zM258 93h9v9h-9zM258 102h9v9h-9z" />
+<path fill="#FFFBFF" d="M150 48h9v9h-9zM186 48h9v9h-9zM150 57h9v9h-9zM159 57h9v9h-9zM186 57h9v9h-9zM150 66h9v9h-9zM159 66h9v9h-9zM186 66h9v9h-9zM150 75h9v9h-9zM168 75h9v9h-9zM186 75h9v9h-9zM150 84h9v9h-9zM177 84h9v9h-9zM186 84h9v9h-9zM150 93h9v9h-9zM177 93h9v9h-9zM186 93h9v9h-9zM150 102h9v9h-9zM186 102h9v9h-9zM204 48h9v9h-9zM213 48h9v9h-9zM222 48h9v9h-9zM231 48h9v9h-9zM240 48h9v9h-9zM222 57h9v9h-9zM222 66h9v9h-9zM222 75h9v9h-9zM222 84h9v9h-9zM222 93h9v9h-9zM222 102h9v9h-9z" />
 <path fill="#536077" d="M40 128h320v4H40z"/>
 <path class="beacon" fill="#E09A4A" d="M40 24h8v8h-8z"/>
 <path class="beacon beacon-late" fill="#E353F7" d="M56 24h8v8h-8z"/>
