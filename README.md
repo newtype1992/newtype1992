@@ -30,13 +30,7 @@ A browser extension for saving, organizing, and reusing AI prompts in the tools 
 ### [Side Quest](https://github.com/newtype1992/side-quest)
 **Game systems**
 
-[![Side Quest — animated cyan and gold sound waves](./assets/side-quest.svg)](https://github.com/newtype1992/side-quest)
-
 A top-down action roguelite in development with GameMaker. The current combat prototype stars Hype Man, with controller support, dodge rolls, and a bullet-clearing **Make Some Noise** ability. Original pixel art and editable Aseprite animation sources are included.
-
-<p align="center">
-  <a href="https://github.com/newtype1992/side-quest"><img src="./assets/side-quest-hypeman.gif" width="384" alt="Hype Man performs his Make Some Noise ability in an animated pixel-art preview." /></a>
-</p>
 
 [Explore the game and source →](https://github.com/newtype1992/side-quest)
 
